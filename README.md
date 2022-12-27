@@ -120,7 +120,7 @@ terraform fmt
 ```
 To show outputs
 ```
-terraform outputs
+terraform output
 ```
 ### OUTRO ###
 Hope u enjoyed seeing my project!
