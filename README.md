@@ -114,6 +114,7 @@ Or use autoapprove
 terraform destroy --auto-approve
 ```
 Usefull commands:
+
 To format your code
 ```
 terraform fmt
