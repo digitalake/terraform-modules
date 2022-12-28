@@ -54,7 +54,7 @@ U can create additional directories for:
   - wide collection of modules by adding new _service_ directory to _services_
   - additional environments by adding new _environment_ code directory to _live_ directory
   
-### ABOUT PROJECT REQUIRENMENTS ###
+### ABOUT CONCEPT ###
 This project is built for creating infra in Azure and AWS clouds by doing simple configuration and running _apply_.
 Child modules are refered in root module _main.tf_ file
 You can see useful outputs while running terraform
